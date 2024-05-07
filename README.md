@@ -5,32 +5,31 @@ Atividade de qualidade de software
 Título da atividade (em andamento read.me)
 
 
-Um parágrafo da descrição do projeto vai (aqui)
-Aplicativo escolhido
+UM PARÁGRAFO DA DESCRIÇÃO DO PROJETO - (aqui)
+
+APLICATIVO ESCOLHIDO - Pinterest
 
 
-Breve descrição da aplicação escolhida
-Pré-requisitos
+BREVE DESCRIÇÃO DA APLICAÇÃO ESCOLHIDA - 
+
+PRÉ-REQUISITOS - 
 
 
-Informe quais foram softwares utilizados para produção desta atividade e quais arquivos devem para cada software no conteúdo do repositório.
-Instalação
+INFORME QUAIS FORAM OS SOFTWARES UTILIZADOS PARA PRODUÇÃO DESTA ATIVIDADE E QUAIS ARQUIVOS DEVEM PARA CADA SOFTWARE NO CONTEÚDO DO REPOSITÓRIO - 
 
+INSTALAÇÃO - 
 
-Informe a ferramenta utilizada para execução dos testes, dados do navegador, sistema operacional e etc
+INFORME A FERRAMENTA UTILIZADA PARA EXECUÇÃO DOS TESTES, DADOS DO NAVEGADOR, SISTEMA OPERCIONAL, ETC - 
 
-Executando os testes
+EXECUTANDO OS TESTES -
 
+INFORME QUAIS FORAM OS PONTOS DE COBERTURA DE TESTE DA TELA DE LOGIN;
 
-Informe quais foram os pontos de cobertura de teste da tela de login;
+REGISTRO DE TESTE - 
 
-Registro de teste
+LINK VÍDEO -
 
-
-Insira o link do vídeo gravado para atividade;
-
-Autores
-
+AUTORES -
 
 Nome
 
